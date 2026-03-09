@@ -1,0 +1,4 @@
+.mynav{background-color:rgb(152, 152, 236); display:flex;justify-content: space-between;border-radius: 20px;}
+a{text-decoration: none;color: aquamarine;}
+.mylistitems{list-style: none;}
+.image{border-width: 10px;border: length 10px;}
